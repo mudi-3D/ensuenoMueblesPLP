@@ -21,7 +21,7 @@ const SKUS = ['1942',
 '1038',
 '1103',
 '1356',
-'1381'];
+'1381', '1291'];
 
 /** Contador para detener la busqueda y revisión de las "cards" */
 let counterSearch = 0;
